@@ -1,0 +1,55 @@
+Below in the table Candidate_Names are given with their department names and marks obtained								
+Using excel formula, Rank Each Student in their department based on marks they got								
+								
+								
+Dept_Name	Candidate_Name	Marks			Rank			
+Bio-Tech	Abhishek	181						
+Bio-Tech	Amit	121						
+Electricals	Anil	152						
+Electricals	Anusha	197						
+Mechanical	Aravind	117						
+Mechanical	Arun	158						
+Mechanical	Balaji	102						
+Chemical	Chanakya	168						
+Mechanical	Daniel	154						
+Bio-Tech	Diego	146						
+Bio-Tech	Jacob	187						
+Civil	Karthik	164						
+Computer Science	Madhu	169						
+Civil	Mahesh	118						
+Mechanical	Malini	122						
+Bio-Tech	Mani	151						
+Electricals	Mehul	156						
+Computer Science	Mukundan	149						
+Bio-Tech	Murali	161						
+Civil	Paul	160						
+Electricals	Payal	161						
+Mechanical	Prabhu	112						
+Chemical	Prakash	183						
+Electricals	Praphul	151						
+Computer Science	Prashant	139						
+Civil	Prateek	135						
+Mechanical	Priya	177						
+Civil	Priya	141						
+Computer Science	Raghav	159						
+Bio-Tech	Rahul	162						
+Chemical	Rahul	174						
+Bio-Tech	Raj	107						
+Electricals	Rajeev	156						
+Electricals	Rajiv	114						
+Civil	Ramya	128						
+Mechanical	Ravi	160						
+Computer Science	Rishi	141						
+Bio-Tech	Sachin	141						
+Mechanical	Sairam	142						
+Chemical	Sanjeev	115						
+Chemical	Shobha	147						
+Chemical	Shriram	179						
+Computer Science	Shweta	131						
+Chemical	Srinivasan	164						
+Bio-Tech	Suresh	125						
+Civil	Swaroop	196						
+Mechanical	Tejas	115						
+Mechanical	Trisha	183						
+Bio-Tech	Venkat	135						
+Chemical	Vikram	173						
